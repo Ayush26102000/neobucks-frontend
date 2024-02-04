@@ -1,5 +1,9 @@
 # Neobucksfrontend
 
+##Project Description
+
+Welcome to NeoBucks, the cutting-edge solution for managing your finances in the digital age. NeoBucks is not just an expense tracker; it's a glimpse into the future of financial management. With sleek design, intuitive features, and state-of-the-art technology, NeoBucks transforms the way you handle your expenses.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
 ## Development server
